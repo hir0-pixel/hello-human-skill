@@ -50,7 +50,7 @@ The agent walks through a multi-pass workflow: fix the substance first, break th
 - Add fake typos or randomness to trick detectors
 - Invent facts or citations to fill gaps
 
-Write something worth reading first. Polish second.
+Write something worth reading first. Polish second, hav fun :)
 
 ## License
 
