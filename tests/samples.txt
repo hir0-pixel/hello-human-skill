@@ -1,0 +1,45 @@
+# Test samples for Hello Human detector loop
+
+## EMAIL_AI
+Subject: Follow-Up on Our Recent Discussion
+
+Dear Sarah,
+
+I hope this email finds you well. Additionally, it is important to note that our team has been working diligently to streamline the onboarding process and foster a more robust ecosystem for collaboration. Furthermore, we would like to leverage these comprehensive improvements to enhance your experience.
+
+Please do not hesitate to reach out if you have any questions. I look forward to hearing from you.
+
+Best regards,
+Alex
+
+## EMAIL_HUMAN
+Subject: onboarding doc — one thing missing
+
+Hi Sarah,
+
+Quick follow-up from Tuesday. We tightened the onboarding checklist and cut two redundant approval steps. Should save your team about a day on the first hire.
+
+One gap: we still don't have your SSO vendor listed. Can you send that name by Thursday? Without it we can't finish the access section.
+
+Thanks,
+Alex
+
+## BLOG_AI
+In today's fast-paced digital landscape, remote work has become a pivotal moment in the evolving landscape of modern employment. Organizations must delve into comprehensive strategies to streamline operations and unlock new opportunities. This transformation not only enhances productivity but also fosters a more robust ecosystem for collaboration.
+
+Furthermore, it is important to note that leaders should prioritize employee wellbeing. In conclusion, remote work represents a testament to the enduring resilience of the modern workforce.
+
+## BLOG_HUMAN
+Remote work didn't kill offices. It killed the idea that everyone needs the same schedule.
+
+Some teams I talk to are genuinely faster async. Others just have longer Slack threads and fewer whiteboard moments. Both can be true in the same company, different teams.
+
+If you're a manager still debating "remote vs office," you're asking the wrong question. Ask which parts of your workflow actually need a room. We cut our weekly standup from 45 minutes to 15 once we stopped making everyone listen to updates that belonged in a doc.
+
+## ESSAY_AI
+Additionally, climate change represents one of the most crucial challenges of our time. Experts believe that comprehensive action is necessary to address this evolving landscape. It is not merely an environmental issue, but a pivotal testament to humanity's capacity for innovation and resilience. Moreover, sustainable practices will unlock new opportunities for future generations.
+
+## ESSAY_HUMAN
+Climate policy gets framed like a morality play: either we sacrifice growth or we ignore the science. That binary wastes time.
+
+The harder question is sequencing. Grid upgrades in Texas look nothing like flood adaptation in Bangladesh, and pretending one global checklist fits both is how you get glossy reports nobody implements. I'd start with the infrastructure decisions that lock in emissions for 30 years — power plants, building codes, transit lines — because those are the choices you can't unwind with a press release later.
