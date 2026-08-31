@@ -14,9 +14,9 @@ Not another synonym spinner. Those swap "delve" for "explore" and call it a day.
 
 **It catches what humans notice.** The tells aren't just buzzwords. It's the rule-of-three lists, the neat conclusions, the "not X but Y" contrasts, the participial openers, the paragraphs that all do the same job. Hello Human runs a full pass over substance, structure, tropes, syntax, and genre before handing you a draft.
 
-**It works across formats.** Email, blog posts, LinkedIn, marketing copy, essays, casual texts — each has different rules, and the skill knows the difference.
+**It works across formats.** Email, blog posts, LinkedIn, marketing copy, essays, casual texts, each has different rules, and the skill knows the difference.
 
-**It's built on actual research.** Wikipedia's AI writing signs, StoryScope narrative shape work, tropes.fyi, and peer-reviewed detection papers — not a blog post someone wrote in twenty minutes.
+**It's built on actual research.** Wikipedia's AI writing signs, StoryScope narrative shape work, tropes.fyi, and peer-reviewed detection papers, not a blog post someone wrote in twenty minutes.
 
 ## Install
 
