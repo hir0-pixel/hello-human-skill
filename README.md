@@ -49,7 +49,6 @@ The agent walks through a multi-pass workflow: fix the substance first, break th
 - Spin synonyms and call it "humanized"
 - Add fake typos or randomness to trick detectors
 - Invent facts or citations to fill gaps
-- Guarantee any third-party detector score — if your institution uses Turnitin or GPTZero, you still need to review the work yourself
 
 Write something worth reading first. Polish second.
 
