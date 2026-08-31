@@ -70,7 +70,7 @@ Replace with plain words: use, help, show, is, has, many, important, change, wor
 
 ## Punctuation & formatting
 
-- **Em dashes:** ≤2 per 500 words. Use periods or commas.
+- **Em dashes:** avoid. Default zero; max one per piece when rephrasing would actually break the meaning. Never for rhythm or AI-polish.
 - **Colons mid-sentence:** Rare. Rewrite as two sentences.
 - **Boldface:** Proper nouns only, not every keyword.
 - **Emoji in headings:** Remove unless brand requires.

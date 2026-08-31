@@ -16,7 +16,7 @@ Do **not:** add typos, swap em-dashes for parentheses, pad word count, prompt "m
 |---------|---------------|
 | Negative parallelism | ≤1 |
 | Tricolon / rule of three | ≤1 |
-| Em dashes | ≤2 per 500 words |
+| Em dashes | Default **0**. Max **1** per piece, only if unavoidable. |
 | Signpost fillers (Additionally, Furthermore…) | ≤1 per 500 words |
 
 **Audit:** 0–1 tropes in 500w = fine. 2–3 = tighten. 4+ = rewrite from notes.
@@ -78,7 +78,7 @@ Do **not:** add typos, swap em-dashes for parentheses, pad word count, prompt "m
 
 | Trope | Fix |
 |-------|-----|
-| **Em-dash addiction** | Period/comma. Cap ~2/500w. No paren dodge. |
+| **Em-dash addiction** | Strip on sight. Period, comma, colon, or two sentences first. Keep one only if the line breaks without it. |
 | **Bold-first bullets** | Prose, or bold only if rest is new info. |
 | **Title case headings** | Sentence case. |
 | **"Where / What / Why" headers** | Name section in nouns. |

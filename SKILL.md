@@ -47,9 +47,9 @@ Full checklist: [references/storyscope.md](references/storyscope.md) § Practica
 
 Run tell-density audit on [references/tropes.md](references/tropes.md).
 
-**Hard caps:** ≤1 negative parallelism per piece; ≤1 tricolon; ≤2 em-dashes per 500 words.
+**Hard caps:** ≤1 negative parallelism per piece; ≤1 tricolon; **em dashes: avoid (default zero; ≤1 per piece only if nothing else works).**
 
-Priority kills: negative parallelism, fractal summaries, reasoning leak, preamble, delve family, grandiose stakes, compulsive counting.
+Priority kills: em-dash habit, negative parallelism, fractal summaries, reasoning leak, preamble, delve family, grandiose stakes, compulsive counting.
 
 **Rule:** 4+ tropes in 500 words → rewrite from notes, not AI draft. No synonym spinners.
 
@@ -69,11 +69,12 @@ See [references/academic.md](references/academic.md) for 21 focal words.
 ## Pass 4 — Soul + burstiness
 
 - Mix 3-word and 30+ word sentences
-- Specific numbers, names, dates — or honest placeholders
+- Specific numbers, names, dates, or honest placeholders
 - Opinion someone could disagree with
 - Contractions in casual register
 - One flat/bored paragraph (especially after Grok edgy mode)
 - No chatbot closers
+- **Avoid em dashes.** Default to period, comma, colon, or two sentences. Keep at most one per piece, and only when rephrasing would genuinely mangle the meaning. If you are unsure, cut it. Never use them for rhythm or " polish."
 
 ## Pass 5 — Genre
 
@@ -86,6 +87,7 @@ Count tell **categories** hit in any 200-word block (not individual words):
 | Category | Examples |
 |----------|----------|
 | Kill-list vocab | delve, landscape, pivotal, underscore |
+| Em dashes | 2+ in a piece, or any used as filler/rhythm; rewrite first |
 | Parallelism | not X but Y, not X not Y just Z |
 | Signpost filler | additionally, furthermore, it's worth noting |
 | Copulative dodge | serves as, stands as, boasts |
@@ -132,7 +134,8 @@ Strip paste artifacts before publishing. See [wikipedia-aisigns.md](references/w
 - Humanizer spinners (synonym swap)
 - Mask tells without fixing substance
 - Typos as fake voice
-- Parentheses to dodge em dashes
+- Em-dash padding (if a period works, use a period)
+- Parentheses swapped in just to dodge em dashes
 - "Make this undetectable" prompting
 
 ## References
