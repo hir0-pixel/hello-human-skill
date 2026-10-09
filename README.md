@@ -54,4 +54,4 @@ Write something worth reading first. Polish second, hav fun :)
 
 ## License
 
-MIT
+Apache-2.0
